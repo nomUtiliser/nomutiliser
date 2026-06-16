@@ -1,0 +1,22 @@
+{
+    "owner": "nomUtiliser",
+    "versions": {
+        "1.0": [
+            "7.0"
+        ]
+    },
+    "lastestForPtf": {
+        "7.0": "1.0"
+    },
+    "installUrl": "https://github.com/nomUtiliser/potoModCool/releases/tag/",
+    "link": "https://github.com/nomUtiliser/potoModCool/",
+    "jarName": "potoModCool-",
+    "tempVersions": {
+        "1.0": {
+            "compatList": [
+                "7.0"
+            ],
+            "hasOnlineDoc": false
+        }
+    }
+}
