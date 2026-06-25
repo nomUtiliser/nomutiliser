@@ -1,0 +1,18 @@
+{
+  "owner": "nomUtiliser",
+  "lastestForPtf": {
+    "7.0": "1.0"
+  },
+  "installUrl": "https://github.com/nomUtiliser/pototoClicker/releases/tag/",
+  "link": "https://github.com/nomUtiliser/pototoClicker/",
+  "docLink": "https://nomutiliser.github.io/nomutiliser/pototoClicker/javadoc/",
+  "jarName": "pototoClicker-",
+  "versions": {
+    "1.0": {
+      "hasOnlineDoc": false,
+      "compatList": [
+        "7.0"
+      ]
+    }
+  }
+}
